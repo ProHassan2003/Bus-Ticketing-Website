@@ -1,0 +1,31 @@
+body{
+  font-family: Arial, sans-serif;
+  max-width: 900px;
+  margin: 40px auto;
+  padding: 0 16px;
+  line-height: 1.6;
+}
+h1{ margin-bottom: 10px; }
+a{ text-decoration: none; }
+a:hover{ text-decoration: underline; }
+
+.card{
+  border: 1px solid #ddd;
+  padding: 16px;
+  border-radius: 10px;
+  margin: 12px 0;
+}
+.btn{
+  display: inline-block;
+  padding: 8px 12px;
+  border: 1px solid #333;
+  border-radius: 8px;
+  margin-right: 8px;
+}
+input, textarea{
+  width: 100%;
+  padding: 10px;
+  margin: 6px 0 12px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+}
